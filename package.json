@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/ashishd751/react-excel-renderer#readme",
   "peerDependencies": {
-    "react": "^16.7.0"
+    "react": "^18.2.0"
   },
   "dependencies": {
     "xlsx": "https://cdn.sheetjs.com/xlsx-0.19.3/xlsx-0.19.3.tgz"
